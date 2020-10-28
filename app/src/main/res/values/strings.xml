@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formulario de Contacto</string>
+    <string name="titulo">Agenda de Contactos</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="nacimiento">Fecha de Nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción del contacto</string>
+    <string name="btn_Aceptar">Siguiente</string>
+    <string name="titulo2">Confirmar Datos</string>
+    <string name="boton_dos">Editar Datos</string>
+</resources>
